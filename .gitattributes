@@ -6,3 +6,4 @@ file1.txt filter=lfs diff=lfs merge=lfs -text
 file6.txt filter=lfs diff=lfs merge=lfs -text
 file7.txt filter=lfs diff=lfs merge=lfs -text
 file8.txt filter=lfs diff=lfs merge=lfs -text
+file9.txt filter=lfs diff=lfs merge=lfs -text

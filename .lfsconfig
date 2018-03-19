@@ -1,2 +1,2 @@
 [lfs]
-url = "http://localhost:8081/artifactory/api/lfs/gitlfs-local"
+url = "http://artifactory.local:8081/artifactory/api/lfs/gitlfs-local"
